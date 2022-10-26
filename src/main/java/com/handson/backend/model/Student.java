@@ -46,7 +46,6 @@ public class Student implements Serializable {
     @Length(max = 20)
     private String phone;
 
-
     @Length(max = 500)
     private String profilePicture;
 }
